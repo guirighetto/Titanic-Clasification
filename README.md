@@ -1,1 +1,2 @@
 # Titanic-Clasification
+For fun
